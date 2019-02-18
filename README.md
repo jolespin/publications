@@ -2,6 +2,7 @@
 _________________________
 
 [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/50383860/?sort=date&direction=descending)
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=r9y1tTQAAAAJ)
 
 **Espinoza JL**, Harkins DM, Torralba M, Gomez A, Highlander SK, Jones MB, Leong P, Saffery R, Bockmann M, Kuelbs C, Inman JM, Hughes T, Craig JM, Nelson KE, Dupont CL. Supragingival Plaque Microbiome Ecology and Functional Potential in the Context of Health and Disease. MBio. 2018 Nov 27;9(6). pii: e01631-18. doi: 10.1128/mBio.01631-18. PubMed PMID: 30482830.
