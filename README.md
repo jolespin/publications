@@ -5,6 +5,8 @@ _________________________
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=r9y1tTQAAAAJ)
 
+Yu Imai, Kirsten J. Meyer, Akira Iinishi, Quentin Favre-Godal, Robert Green, Sylvie Manuse, Mariaelena Caboni, Miho Mori, Samantha Niles, Meghan Ghiglieri, Chandrashekhar Honrao, Xiaoyu Ma, Jason Guo, Alexandros Makriyannis, Luis Linares-Otoya, Nils Böhringer, Zerlina G. Wuisan, Hundeep Kaur, Runrun Wu, Andre Mateus, Athanasios Typas, Mikhail M. Savitski, **Josh L. Espinoza**, Aubrie O’Rourke, Karen E. Nelson, Sebastian Hiller, Nicholas Noinaj, Till F. Schäberle, Anthony D’Onofrio & Kim Lewis. (2019). A new antibiotic selectively kills Gram-negative pathogens. Nature. doi:10.1038/s41586-019-1791-1. 
+
 **Espinoza JL**, Harkins DM, Torralba M, Gomez A, Highlander SK, Jones MB, Leong P, Saffery R, Bockmann M, Kuelbs C, Inman JM, Hughes T, Craig JM, Nelson KE, Dupont CL. Supragingival Plaque Microbiome Ecology and Functional Potential in the Context of Health and Disease. MBio. 2018 Nov 27;9(6). pii: e01631-18. doi: 10.1128/mBio.01631-18. PubMed PMID: 30482830.
 
 Huang L, Shum EY, Jones SH, Lou CH, Dumdie J, Kim H, Roberts AJ, Jolly LA, **Espinoza JL**, Skarbrevik DM, Phan MH, Cook-Andersen H, Swerdlow NR, Gecz J, Wilkinson MF. A Upf3b-mutant mouse model with behavioral and neurogenesis defects. Mol Psychiatry. 2018 Aug;23(8):1773-1786. doi: 10.1038/mp.2017.173. Epub 2017 Sep 26. PubMed PMID: 28948974; PubMed Central PMCID: PMC5869067.
