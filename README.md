@@ -15,13 +15,19 @@ Gomez A+, **Espinoza JL+**, Harkins DM, Leong P, Saffery R, Bockmann M, Torralba
 
 Shum EY+, **Espinoza JL+**, Ramaiah M, Wilkinson MF. Identification of novel post-transcriptional features in olfactory receptor family mRNAs. Nucleic Acids Res. 2015 Oct 30;43(19):9314-26. doi: 10.1093/nar/gkv324. Epub 2015 Apr 23. PubMed PMID: 25908788; PubMed Central PMCID: PMC4627058.
 
-Huang L, Shum EY, Jones SH, Lou CH, Dumdie J, Kim H, Roberts AJ, Jolly LA, **Espinoza JL**, Skarbrevik DM, Phan MH, Cook-Andersen H, Swerdlow NR, Gecz J, Wilkinson MF. A Upf3b-mutant mouse model with behavioral and neurogenesis defects. Mol Psychiatry. 2018 Aug;23(8):1773-1786. doi: 10.1038/mp.2017.173. Epub 2017 Sep 26. PubMed PMID: 28948974; PubMed Central PMCID: PMC5869067.
-
 Warshan D, **Espinoza JL**, Stuart RK, Richter RA, Kim SY, Shapiro N, Woyke T, C Kyrpides N, Barry K, Singan V, Lindquist E, Ansong C, Purvine SO, M Brewer H, Weyman PD, Dupont CL, Rasmussen U. Feathermoss and epiphytic Nostoc cooperate differently: expanding the spectrum of plant-cyanobacteria symbiosis. ISME J. 2017 Dec;11(12):2821-2833. doi: 10.1038/ismej.2017.134. Epub 2017 Aug 11. PubMed PMID: 28800136; PubMed Central PMCID: PMC5702739.
 
 Lou CH, Shao A, Shum EY, **Espinoza JL**, Huang L, Karam R, Wilkinson MF. Posttranscriptional control of the stem cell and neurogenic programs by the nonsense-mediated RNA decay pathway. Cell Rep. 2014 Feb 27;6(4):748-64. doi: 10.1016/j.celrep.2014.01.028. Epub 2014 Feb 13. PubMed PMID: 24529710; PubMed Central PMCID: PMC3962089.
 
 Michaud JM, Thompson LR, Kaul D+, **Espinoza JL+**, Richter RA, Xu ZZ, Lee C, Pham KM, Beall CM, Malfatti F, Azam F, Knight R, Burkart MD, Dupont CL, Prather KA. Taxon-specific aerosolization of bacteria and viruses in an experimental ocean-atmosphere mesocosm. Nat Commun. 2018 May 22;9(1):2017. doi: 10.1038/s41467-018-04409-z. PubMed PMID: 29789621; PubMed Central PMCID: PMC5964107.
+
+Manck LE, **Espinoza JL**, Dupont CL, Barbeau KA. Transcriptomic Study of Substrate-Specific Transport Mechanisms for Iron and Carbon in the Marine Copiotroph *Alteromonas macleodii*. mSystems. 2020 Apr 28;5(2). doi: 10.1128/mSystems.00070-20. PubMed PMID: 32345736; PubMed Central PMCID: PMC7190382.
+
+Domingo D, Nawaz U, Corbett M, **Espinoza JL**, Tatton-Brown K, Coman D, Wilkinson MF, Gecz J, Jolly LA. UPF3B mutations including a novel synonymous variant associated with absent speech implicate nonsense mediated mRNA decay as a regulator of neurodevelopmental disorder gene networks.  Hum Mol Genet. 2020 Jul 15:ddaa151. doi: 10.1093/hmg/ddaa151. Online ahead of print.
+PMID: 32667670
+
+Huang L, Shum EY, Jones SH, Lou CH, Dumdie J, Kim H, Roberts AJ, Jolly LA, **Espinoza JL**, Skarbrevik DM, Phan MH, Cook-Andersen H, Swerdlow NR, Gecz J, Wilkinson MF. A Upf3b-mutant mouse model with behavioral and neurogenesis defects. Mol Psychiatry. 2018 Aug;23(8):1773-1786. doi: 10.1038/mp.2017.173. Epub 2017 Sep 26. PubMed PMID: 28948974; PubMed Central PMCID: PMC5869067.
+
 
 O'Rourke A, Beyhan S, Choi Y, Morales P, Chan AP, **Espinoza JL**, Dupont CL, Meyer KJ, Spoering A, Lewis K, Nierman WC, Nelson KE. Mechanism-of-Action Classification of Antibiotics by Global Transcriptome Profiling. Antimicrob Agents Chemother. 2020 Feb 21;64(3). doi: 10.1128/AAC.01207-19. Print 2020 Feb 21. PubMed PMID: 31907190; PubMed Central PMCID: PMC7038283.
 
@@ -29,7 +35,6 @@ Diner RE, Noddings CM, Lian NC, Kang AK, McQuaid JB, Jablanovic J, **Espinoza JL
 
 Shum EY, Jones SH, Shao A, Dumdie J, Krause MD, Chan WK, Lou CH, **Espinoza JL**, Song HW, Phan MH, Ramaiah M, Huang L, McCarrey JR, Peterson KJ, De Rooij DG, Cook-Andersen H, Wilkinson MF. The Antagonistic Gene Paralogs Upf3a and Upf3b Govern Nonsense-Mediated RNA Decay. Cell. 2016 Apr 7;165(2):382-95. doi: 10.1016/j.cell.2016.02.046. Epub 2016 Mar 31. PubMed PMID: 27040500; PubMed Central PMCID: PMC4826573.
 
-Manck LE, **Espinoza JL**, Dupont CL, Barbeau KA. Transcriptomic Study of Substrate-Specific Transport Mechanisms for Iron and Carbon in the Marine Copiotroph *Alteromonas macleodii*. mSystems. 2020 Apr 28;5(2). doi: 10.1128/mSystems.00070-20. PubMed PMID: 32345736; PubMed Central PMCID: PMC7190382.
 
 Bartelme RP, Custer JM, Dupont CL, **Espinoza JL**, Torralba M, Khalili B, Carini P. Influence of Substrate Concentration on the Culturability of Heterotrophic Soil Microbes Isolated by High-Throughput Dilution-to-Extinction Cultivation. mSphere. 2020 Jan 29;5(1). doi: 10.1128/mSphere.00024-20. PubMed PMID: 31996418; PubMed Central PMCID: PMC6992367.
 
