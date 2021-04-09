@@ -5,7 +5,9 @@ _________________________
 
 [Google Scholar Bibliography](https://scholar.google.com/citations?hl=en&user=r9y1tTQAAAAJ)
 
-Yu Imai, Kirsten J. Meyer, Akira Iinishi, Quentin Favre-Godal, Robert Green, Sylvie Manuse, Mariaelena Caboni, Miho Mori, Samantha Niles, Meghan Ghiglieri, Chandrashekhar Honrao, Xiaoyu Ma, Jason Guo, Alexandros Makriyannis, Luis Linares-Otoya, Nils Böhringer, Zerlina G. Wuisan, Hundeep Kaur, Runrun Wu, Andre Mateus, Athanasios Typas, Mikhail M. Savitski, **Josh L. Espinoza**, Aubrie O’Rourke, Karen E. Nelson, Sebastian Hiller, Nicholas Noinaj, Till F. Schäberle, Anthony D’Onofrio & Kim Lewis. (2019). A new antibiotic selectively kills Gram-negative pathogens. Nature. doi:10.1038/s41586-019-1791-1. 
+**Espinoza JL+**, Dupont CL+, O'Rourke A, Beyhan S, Morales P, Spoering A, Meyer KJ, Chan AP, Choi Y, Nierman WC, Lewis K, Nelson KE. Predicting antimicrobial mechanism-of-action from transcriptomes: A generalizable explainable artificial intelligence approach. PLoS Comput Biol. 2021 Mar 29;17(3):e1008857. doi: 10.1371/journal.pcbi.1008857. PubMed PMID: 33780444.
+
+Imai Y, Meyer KJ, Iinishi A, Favre-Godal Q, Green R, Manuse S, Caboni M, Mori M, Niles S, Ghiglieri M, Honrao C, Ma X, Guo JJ, Makriyannis A, Linares-Otoya L, Böhringer N, Wuisan ZG, Kaur H, Wu R, Mateus A, Typas A, Savitski MM, **Espinoza JL**, O'Rourke A, Nelson KE, Hiller S, Noinaj N, Schäberle TF, D'Onofrio A, Lewis K. A new antibiotic selectively kills Gram-negative pathogens. Nature. 2019 Dec;576(7787):459-464. doi: 10.1038/s41586-019-1791-1. Epub 2019 Nov 20. PMID: 31747680
 
 **Espinoza JL**, Harkins DM, Torralba M, Gomez A, Highlander SK, Jones MB, Leong P, Saffery R, Bockmann M, Kuelbs C, Inman JM, Hughes T, Craig JM, Nelson KE, Dupont CL. Supragingival Plaque Microbiome Ecology and Functional Potential in the Context of Health and Disease. MBio. 2018 Nov 27;9(6). pii: e01631-18. doi: 10.1128/mBio.01631-18. PubMed PMID: 30482830.
 
