@@ -36,7 +36,6 @@ Diner RE, Noddings CM, Lian NC, Kang AK, McQuaid JB, Jablanovic J, **Espinoza JL
 
 Shum EY, Jones SH, Shao A, Dumdie J, Krause MD, Chan WK, Lou CH, **Espinoza JL**, Song HW, Phan MH, Ramaiah M, Huang L, McCarrey JR, Peterson KJ, De Rooij DG, Cook-Andersen H, Wilkinson MF. The Antagonistic Gene Paralogs Upf3a and Upf3b Govern Nonsense-Mediated RNA Decay. Cell. 2016 Apr 7;165(2):382-95. [doi: 10.1016/j.cell.2016.02.046](doi.org/10.1016/j.cell.2016.02.046). PubMed PMID: 27040500; PubMed Central PMCID: PMC4826573.
 
-
 Bartelme RP, Custer JM, Dupont CL, **Espinoza JL**, Torralba M, Khalili B, Carini P. Influence of Substrate Concentration on the Culturability of Heterotrophic Soil Microbes Isolated by High-Throughput Dilution-to-Extinction Cultivation. mSphere. 2020 Jan 29;5(1). [doi: 10.1128/mSphere.00024-20](doi.org/10.1128/mSphere.00024-20). PubMed PMID: 31996418; PubMed Central PMCID: PMC6992367.
 
 Weiss H, Hertzberg VS, Dupont C, **Espinoza JL**, Levy S, Nelson K, Norris S; FlyHealthy Research Team.. The Airplane Cabin Microbiome. Microb Ecol. 2018 Jun 6. [doi: 10.1007/s00248-018-1191-3](doi.org/10.1007/s00248-018-1191-3). PubMed PMID: 29876609.
