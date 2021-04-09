@@ -3,7 +3,7 @@ _________________________
 
 [NCBI PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/50383860/?sort=date&direction=descending)
 
-[Google Scholar Bibliography](https://scholar.google.com/citations?hl=en&user=r9y1tTQAAAAJ)
+[Google Scholar Bibliography](https://scholar.google.com/citations?hl=en&user=r9y1tTQAAAAJ&view_op=list_works&sortby=pubdate)
 
 **Espinoza JL+**, Dupont CL+, O'Rourke A, Beyhan S, Morales P, Spoering A, Meyer KJ, Chan AP, Choi Y, Nierman WC, Lewis K, Nelson KE. Predicting antimicrobial mechanism-of-action from transcriptomes: A generalizable explainable artificial intelligence approach. PLoS Comput Biol. 2021 Mar 29;17(3):e1008857. doi: 10.1371/journal.pcbi.1008857. PubMed PMID: 33780444.
 
