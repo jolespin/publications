@@ -5,9 +5,8 @@ _________________________
 
 [Google Scholar Bibliography](https://scholar.google.com/citations?hl=en&user=r9y1tTQAAAAJ&view_op=list_works&sortby=pubdate)
 
+#### (Co)First Authorship:
 **Espinoza JL+**, Dupont CL+, O'Rourke A, Beyhan S, Morales P, Spoering A, Meyer KJ, Chan AP, Choi Y, Nierman WC, Lewis K, Nelson KE. Predicting antimicrobial mechanism-of-action from transcriptomes: A generalizable explainable artificial intelligence approach. PLoS Comput Biol. 2021 Mar 29;17(3):e1008857. [doi: 10.1371/journal.pcbi.1008857](https://doi.org/10.1371/journal.pcbi.1008857). PubMed PMID: 33780444.
-
-Imai Y, Meyer KJ, Iinishi A, Favre-Godal Q, Green R, Manuse S, Caboni M, Mori M, Niles S, Ghiglieri M, Honrao C, Ma X, Guo JJ, Makriyannis A, Linares-Otoya L, Böhringer N, Wuisan ZG, Kaur H, Wu R, Mateus A, Typas A, Savitski MM, **Espinoza JL**, O'Rourke A, Nelson KE, Hiller S, Noinaj N, Schäberle TF, D'Onofrio A, Lewis K. A new antibiotic selectively kills Gram-negative pathogens. Nature. 2019 Dec;576(7787):459-464. [doi: 10.1038/s41586-019-1791-1](https://doi.org/10.1038/s41586-019-1791-1). Epub 2019 Nov 20. PMID: 31747680
 
 **Espinoza JL**, Harkins DM, Torralba M, Gomez A, Highlander SK, Jones MB, Leong P, Saffery R, Bockmann M, Kuelbs C, Inman JM, Hughes T, Craig JM, Nelson KE, Dupont CL. Supragingival Plaque Microbiome Ecology and Functional Potential in the Context of Health and Disease. MBio. 2018 Nov 27;9(6). pii: e01631-18. [doi: 10.1128/mBio.01631-18](https://doi.org/10.1128/mBio.01631-18). PubMed PMID: 30482830.
 
@@ -15,7 +14,12 @@ Imai Y, Meyer KJ, Iinishi A, Favre-Godal Q, Green R, Manuse S, Caboni M, Mori M,
 
 Gomez A+, **Espinoza JL+**, Harkins DM, Leong P, Saffery R, Bockmann M, Torralba M, Kuelbs C, Kodukula R, Inman J, Hughes T, Craig JM, Highlander SK, Jones MB, Dupont CL, Nelson KE. Host Genetic Control of the Oral Microbiome in Health and Disease. Cell Host Microbe. 2017 Sep 13;22(3):269-278.e3. [doi: 10.1016/j.chom.2017.08.013](https://doi.org/10.1016/j.chom.2017.08.013). PubMed PMID: 28910633; PubMed Central PMCID: PMC5733791.
 
+Nabwera HM+, **Espinoza JL+**, Worwui A, Betts M, Okoi C, Sesay AK et al. Interactions between fecal gut microbiome, enteric pathogens, and energy regulating hormones among acutely malnourished rural Gambian children. EBioMedicine 2021; 73: 103644. [doi:10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644)
+
 Shum EY+, **Espinoza JL+**, Ramaiah M, Wilkinson MF. Identification of novel post-transcriptional features in olfactory receptor family mRNAs. Nucleic Acids Res. 2015 Oct 30;43(19):9314-26. [doi: 10.1093/nar/gkv324](https://doi.org/10.1093/nar/gkv324). PubMed PMID: 25908788; PubMed Central PMCID: PMC4627058.
+___________________________________
+
+Imai Y, Meyer KJ, Iinishi A, Favre-Godal Q, Green R, Manuse S, Caboni M, Mori M, Niles S, Ghiglieri M, Honrao C, Ma X, Guo JJ, Makriyannis A, Linares-Otoya L, Böhringer N, Wuisan ZG, Kaur H, Wu R, Mateus A, Typas A, Savitski MM, **Espinoza JL**, O'Rourke A, Nelson KE, Hiller S, Noinaj N, Schäberle TF, D'Onofrio A, Lewis K. A new antibiotic selectively kills Gram-negative pathogens. Nature. 2019 Dec;576(7787):459-464. [doi: 10.1038/s41586-019-1791-1](https://doi.org/10.1038/s41586-019-1791-1). Epub 2019 Nov 20. PMID: 31747680
 
 Warshan D, **Espinoza JL**, Stuart RK, Richter RA, Kim SY, Shapiro N, Woyke T, C Kyrpides N, Barry K, Singan V, Lindquist E, Ansong C, Purvine SO, M Brewer H, Weyman PD, Dupont CL, Rasmussen U. Feathermoss and epiphytic Nostoc cooperate differently: expanding the spectrum of plant-cyanobacteria symbiosis. ISME J. 2017 Dec;11(12):2821-2833. [doi: 10.1038/ismej.2017.134](https://doi.org/10.1038/ismej.2017.134). PubMed PMID: 28800136; PubMed Central PMCID: PMC5702739.
 
