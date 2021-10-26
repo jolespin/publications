@@ -14,7 +14,7 @@ _________________________
 
 Gomez A+, **Espinoza JL+**, Harkins DM, Leong P, Saffery R, Bockmann M, Torralba M, Kuelbs C, Kodukula R, Inman J, Hughes T, Craig JM, Highlander SK, Jones MB, Dupont CL, Nelson KE. Host Genetic Control of the Oral Microbiome in Health and Disease. Cell Host Microbe. 2017 Sep 13;22(3):269-278.e3. [doi: 10.1016/j.chom.2017.08.013](https://doi.org/10.1016/j.chom.2017.08.013). PubMed PMID: 28910633; PubMed Central PMCID: PMC5733791.
 
-Nabwera HM+, **Espinoza JL+**, Worwui A, Betts M, Okoi C, Sesay AK et al. Interactions between fecal gut microbiome, enteric pathogens, and energy regulating hormones among acutely malnourished rural Gambian children. EBioMedicine 2021; 73: 103644. [doi:10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644)
+ Nabwera HM+, **Espinoza JL+**, Worwui A, Betts M, Okoi C, Sesay AK, Bancroft R, Agbla SC, Jarju S, Bradbury RS, Colley M, Jallow AT, Liu J, Houpt ER, Prentice AM, Antonio M, Bernstein RM, Dupont CL+, Kwambana-Adams BA+. Interactions between fecal gut microbiome, enteric pathogens, and energy regulating hormones among acutely malnourished rural Gambian children. EBioMedicine. 2021 Oct 22;73:103644. [doi: 10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644).  PMID: 34695658.
 
 Shum EY+, **Espinoza JL+**, Ramaiah M, Wilkinson MF. Identification of novel post-transcriptional features in olfactory receptor family mRNAs. Nucleic Acids Res. 2015 Oct 30;43(19):9314-26. [doi: 10.1093/nar/gkv324](https://doi.org/10.1093/nar/gkv324). PubMed PMID: 25908788; PubMed Central PMCID: PMC4627058.
 ___________________________________
