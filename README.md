@@ -25,24 +25,25 @@ Warshan D, **Espinoza JL**, Stuart RK, Richter RA, Kim SY, Shapiro N, Woyke T, C
 
 Santoro EP, Borges RM, **Espinoza JL**, Freire M, Messias CSMA, Villela HDM, Pereira LM, Vilela CLS, Rosado JG, Cardoso PM, Rosado PM, Assis JM, Duarte GAS, Perna G, Rosado AS, Macrae A, Dupont CL, Nelson KE, Sweet MJ, Voolstra CR, Peixoto RS. Coral microbiome manipulation elicits metabolic and genetic restructuring to mitigate heat stress and evade mortality. Sci Adv. 2021 Aug 13;7(33):eabg3088. [doi: 10.1126/sciadv.abg3088](https://doi.org/10.1126/sciadv.abg3088). PMID: 34389536.
 
-Lou CH, Shao A, Shum EY, **Espinoza JL**, Huang L, Karam R, Wilkinson MF. Posttranscriptional control of the stem cell and neurogenic programs by the nonsense-mediated RNA decay pathway. Cell Rep. 2014 Feb 27;6(4):748-64. [doi: 10.1016/j.celrep.2014.01.028](https://doi.org/10.1016/j.celrep.2014.01.028).  PubMed PMID: 24529710; PubMed Central PMCID: PMC3962089.
+Shum EY, Jones SH, Shao A, Dumdie J, Krause MD, Chan WK, Lou CH, **Espinoza JL**, Song HW, Phan MH, Ramaiah M, Huang L, McCarrey JR, Peterson KJ, De Rooij DG, Cook-Andersen H, Wilkinson MF. The Antagonistic Gene Paralogs Upf3a and Upf3b Govern Nonsense-Mediated RNA Decay. Cell. 2016 Apr 7;165(2):382-95. [doi: 10.1016/j.cell.2016.02.046](https://doi.org/10.1016/j.cell.2016.02.046). PubMed PMID: 27040500; PubMed Central PMCID: PMC4826573.
 
 Michaud JM, Thompson LR, Kaul D+, **Espinoza JL+**, Richter RA, Xu ZZ, Lee C, Pham KM, Beall CM, Malfatti F, Azam F, Knight R, Burkart MD, Dupont CL, Prather KA. Taxon-specific aerosolization of bacteria and viruses in an experimental ocean-atmosphere mesocosm. Nat Commun. 2018 May 22;9(1):2017. [doi: 10.1038/s41467-018-04409-z](https://doi.org/10.1038/s41467-018-04409-z). PubMed PMID: 29789621; PubMed Central PMCID: PMC5964107.
 
+Lou CH, Shao A, Shum EY, **Espinoza JL**, Huang L, Karam R, Wilkinson MF. Posttranscriptional control of the stem cell and neurogenic programs by the nonsense-mediated RNA decay pathway. Cell Rep. 2014 Feb 27;6(4):748-64. [doi: 10.1016/j.celrep.2014.01.028](https://doi.org/10.1016/j.celrep.2014.01.028).  PubMed PMID: 24529710; PubMed Central PMCID: PMC3962089.
+
+Shahsavari N, Wang B, Imai Y, Mori M, Son S, Liang L, Böhringer N, Manuse S, Gates MF, Morrissette M, Corsetti R, **Espinoza JL**, Dupont CL, Laub MT, Lewis K. A Silent Operon of Photorhabdus luminescens Encodes a Prodrug Mimic of GTP. mBio. 2022 May 16:e0070022. [doi: 10.1128/mbio.00700-22](https://doi.org/ 10.1128/mbio.00700-22). Epub ahead of print. PMID: 35575547.
+
 Manck LE, **Espinoza JL**, Dupont CL, Barbeau KA. Transcriptomic Study of Substrate-Specific Transport Mechanisms for Iron and Carbon in the Marine Copiotroph *Alteromonas macleodii*. mSystems. 2020 Apr 28;5(2). [doi: 10.1128/mSystems.00070-20](https://doi.org/10.1128/mSystems.00070-20). PubMed PMID: 32345736; PubMed Central PMCID: PMC7190382.
-
-Domingo D, Nawaz U, Corbett M, **Espinoza JL**, Tatton-Brown K, Coman D, Wilkinson MF, Gecz J, Jolly LA. UPF3B mutations including a novel synonymous variant associated with absent speech implicate nonsense mediated mRNA decay as a regulator of neurodevelopmental disorder gene networks.  Hum Mol Genet. 2020 Jul 15:ddaa151. [doi: 10.1093/hmg/ddaa151](https://doi.org/10.1093/hmg/ddaa151). PMID: 32667670
-
-Huang L, Shum EY, Jones SH, Lou CH, Dumdie J, Kim H, Roberts AJ, Jolly LA, **Espinoza JL**, Skarbrevik DM, Phan MH, Cook-Andersen H, Swerdlow NR, Gecz J, Wilkinson MF. A Upf3b-mutant mouse model with behavioral and neurogenesis defects. Mol Psychiatry. 2018 Aug;23(8):1773-1786. [doi: 10.1038/mp.2017.173](https://doi.org/10.1038/mp.2017.173). PubMed PMID: 28948974; PubMed Central PMCID: PMC5869067.
-
 
 O'Rourke A, Beyhan S, Choi Y, Morales P, Chan AP, **Espinoza JL**, Dupont CL, Meyer KJ, Spoering A, Lewis K, Nierman WC, Nelson KE. Mechanism-of-Action Classification of Antibiotics by Global Transcriptome Profiling. Antimicrob Agents Chemother. 2020 Feb 21;64(3). [doi: 10.1128/AAC.01207-19](https://doi.org/10.1128/AAC.01207-19). PubMed PMID: 31907190; PubMed Central PMCID: PMC7038283.
 
+Huang L, Shum EY, Jones SH, Lou CH, Dumdie J, Kim H, Roberts AJ, Jolly LA, **Espinoza JL**, Skarbrevik DM, Phan MH, Cook-Andersen H, Swerdlow NR, Gecz J, Wilkinson MF. A Upf3b-mutant mouse model with behavioral and neurogenesis defects. Mol Psychiatry. 2018 Aug;23(8):1773-1786. [doi: 10.1038/mp.2017.173](https://doi.org/10.1038/mp.2017.173). PubMed PMID: 28948974; PubMed Central PMCID: PMC5869067.
+
 Diner RE, Noddings CM, Lian NC, Kang AK, McQuaid JB, Jablanovic J, **Espinoza JL**, Nguyen NA, Anzelmatti MA Jr, Jansson J, Bielinski VA, Karas BJ, Dupont CL, Allen AE, Weyman PD. Diatom centromeres suggest a mechanism for nuclear DNA acquisition. Proc Natl Acad Sci U S A. 2017 Jul 18;114(29):E6015-E6024. [doi: 10.1073/pnas.1700764114](https://doi.org/10.1073/pnas.1700764114). PubMed PMID: 28673987; PubMed Central PMCID: PMC5530661.
 
-Shum EY, Jones SH, Shao A, Dumdie J, Krause MD, Chan WK, Lou CH, **Espinoza JL**, Song HW, Phan MH, Ramaiah M, Huang L, McCarrey JR, Peterson KJ, De Rooij DG, Cook-Andersen H, Wilkinson MF. The Antagonistic Gene Paralogs Upf3a and Upf3b Govern Nonsense-Mediated RNA Decay. Cell. 2016 Apr 7;165(2):382-95. [doi: 10.1016/j.cell.2016.02.046](https://doi.org/10.1016/j.cell.2016.02.046). PubMed PMID: 27040500; PubMed Central PMCID: PMC4826573.
-
 Bartelme RP, Custer JM, Dupont CL, **Espinoza JL**, Torralba M, Khalili B, Carini P. Influence of Substrate Concentration on the Culturability of Heterotrophic Soil Microbes Isolated by High-Throughput Dilution-to-Extinction Cultivation. mSphere. 2020 Jan 29;5(1). [doi: 10.1128/mSphere.00024-20](https://doi.org/10.1128/mSphere.00024-20). PubMed PMID: 31996418; PubMed Central PMCID: PMC6992367.
+
+Domingo D, Nawaz U, Corbett M, **Espinoza JL**, Tatton-Brown K, Coman D, Wilkinson MF, Gecz J, Jolly LA. UPF3B mutations including a novel synonymous variant associated with absent speech implicate nonsense mediated mRNA decay as a regulator of neurodevelopmental disorder gene networks.  Hum Mol Genet. 2020 Jul 15:ddaa151. [doi: 10.1093/hmg/ddaa151](https://doi.org/10.1093/hmg/ddaa151). PMID: 32667670
 
 Weiss H, Hertzberg VS, Dupont C, **Espinoza JL**, Levy S, Nelson K, Norris S; FlyHealthy Research Team.. The Airplane Cabin Microbiome. Microb Ecol. 2018 Jun 6. [doi: 10.1007/s00248-018-1191-3](https://doi.org/10.1007/s00248-018-1191-3). PubMed PMID: 29876609.
 
