@@ -31,7 +31,7 @@ Michaud JM, Thompson LR, Kaul D+, **Espinoza JL+**, Richter RA, Xu ZZ, Lee C, Ph
 
 Lou CH, Shao A, Shum EY, **Espinoza JL**, Huang L, Karam R, Wilkinson MF. Posttranscriptional control of the stem cell and neurogenic programs by the nonsense-mediated RNA decay pathway. Cell Rep. 2014 Feb 27;6(4):748-64. [doi: 10.1016/j.celrep.2014.01.028](https://doi.org/10.1016/j.celrep.2014.01.028).  PubMed PMID: 24529710; PubMed Central PMCID: PMC3962089.
 
-Shahsavari N, Wang B, Imai Y, Mori M, Son S, Liang L, Böhringer N, Manuse S, Gates MF, Morrissette M, Corsetti R, **Espinoza JL**, Dupont CL, Laub MT, Lewis K. A Silent Operon of Photorhabdus luminescens Encodes a Prodrug Mimic of GTP. mBio. 2022 May 16:e0070022. [doi: 10.1128/mbio.00700-22](https://doi.org/ 10.1128/mbio.00700-22). Epub ahead of print. PMID: 35575547.
+Shahsavari N, Wang B, Imai Y, Mori M, Son S, Liang L, Böhringer N, Manuse S, Gates MF, Morrissette M, Corsetti R, **Espinoza JL**, Dupont CL, Laub MT, Lewis K. A Silent Operon of Photorhabdus luminescens Encodes a Prodrug Mimic of GTP. mBio. 2022 May 16:e0070022. [doi: 10.1128/mbio.00700-22](https://doi.org/10.1128/mbio.00700-22). Epub ahead of print. PMID: 35575547.
 
 Manck LE, **Espinoza JL**, Dupont CL, Barbeau KA. Transcriptomic Study of Substrate-Specific Transport Mechanisms for Iron and Carbon in the Marine Copiotroph *Alteromonas macleodii*. mSystems. 2020 Apr 28;5(2). [doi: 10.1128/mSystems.00070-20](https://doi.org/10.1128/mSystems.00070-20). PubMed PMID: 32345736; PubMed Central PMCID: PMC7190382.
 
