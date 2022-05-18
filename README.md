@@ -18,6 +18,7 @@ Gomez A+, **Espinoza JL+**, Harkins DM, Leong P, Saffery R, Bockmann M, Torralba
 
 Shum EY+, **Espinoza JL+**, Ramaiah M, Wilkinson MF. Identification of novel post-transcriptional features in olfactory receptor family mRNAs. Nucleic Acids Res. 2015 Oct 30;43(19):9314-26. [doi: 10.1093/nar/gkv324](https://doi.org/10.1093/nar/gkv324). PubMed PMID: 25908788; PubMed Central PMCID: PMC4627058.
 ___________________________________
+#### Coauthorship:
 
 Imai Y, Meyer KJ, Iinishi A, Favre-Godal Q, Green R, Manuse S, Caboni M, Mori M, Niles S, Ghiglieri M, Honrao C, Ma X, Guo JJ, Makriyannis A, Linares-Otoya L, Böhringer N, Wuisan ZG, Kaur H, Wu R, Mateus A, Typas A, Savitski MM, **Espinoza JL**, O'Rourke A, Nelson KE, Hiller S, Noinaj N, Schäberle TF, D'Onofrio A, Lewis K. A new antibiotic selectively kills Gram-negative pathogens. Nature. 2019 Dec;576(7787):459-464. [doi: 10.1038/s41586-019-1791-1](https://doi.org/10.1038/s41586-019-1791-1). Epub 2019 Nov 20. PMID: 31747680
 
@@ -45,9 +46,15 @@ Bartelme RP, Custer JM, Dupont CL, **Espinoza JL**, Torralba M, Khalili B, Carin
 
 Domingo D, Nawaz U, Corbett M, **Espinoza JL**, Tatton-Brown K, Coman D, Wilkinson MF, Gecz J, Jolly LA. UPF3B mutations including a novel synonymous variant associated with absent speech implicate nonsense mediated mRNA decay as a regulator of neurodevelopmental disorder gene networks.  Hum Mol Genet. 2020 Jul 15:ddaa151. [doi: 10.1093/hmg/ddaa151](https://doi.org/10.1093/hmg/ddaa151). PMID: 32667670
 
-Weiss H, Hertzberg VS, Dupont C, **Espinoza JL**, Levy S, Nelson K, Norris S; FlyHealthy Research Team.. The Airplane Cabin Microbiome. Microb Ecol. 2018 Jun 6. [doi: 10.1007/s00248-018-1191-3](https://doi.org/10.1007/s00248-018-1191-3). PubMed PMID: 29876609.
+Weiss H, Hertzberg VS, Dupont C, **Espinoza JL**, Levy S, Nelson K, Norris S; FlyHealthy Research Team. The Airplane Cabin Microbiome. Microb Ecol. 2018 Jun 6. [doi: 10.1007/s00248-018-1191-3](https://doi.org/10.1007/s00248-018-1191-3). PubMed PMID: 29876609.
 
 _____________________
+
+#### White Papers:
+_____________________
+Emerick Larkin, Andrew Schuerger, Richard Barker, Jessica Audrey Lee, Natasha Haveman, Jayson F Enciso, Lee J Kerhof, Bruce M Link, Christian R Voolstra, Manual Aranda, Christopher Dupont, **Josh L. Espinoza**. Ground and Flight-Based Plant Microbial Interaction Research and Related Space Crop Production Applications. NASA. 2021 December 3. [https://ntrs.nasa.gov/citations/20210023782](https://ntrs.nasa.gov/citations/20210023782)
+
+
 \+ Equal contribution
 
 <img src="ORCID.png" width=100> 
