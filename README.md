@@ -51,8 +51,13 @@ Weiss H, Hertzberg VS, Dupont C, **Espinoza JL**, Levy S, Nelson K, Norris S; Fl
 _____________________
 
 #### White Papers:
-_____________________
 Emerick Larkin, Andrew Schuerger, Richard Barker, Jessica Audrey Lee, Natasha Haveman, Jayson F Enciso, Lee J Kerhof, Bruce M Link, Christian R Voolstra, Manual Aranda, Christopher Dupont, **Josh L. Espinoza**. Ground and Flight-Based Plant Microbial Interaction Research and Related Space Crop Production Applications. NASA. 2021 December 3. [https://ntrs.nasa.gov/citations/20210023782](https://ntrs.nasa.gov/citations/20210023782)
+
+_____________________
+
+#### PhD Dissertation:
+Human interpretable artificial intelligence applications for microbial-related diseases. Durban University of Technology. PhD in Biotechnology (2022). [PDF](PDFs/Espinoza_2022__PhD-Dissertation.pdf)
+_____________________
 
 
 \+ Equal contribution
