@@ -58,7 +58,7 @@ _____________________
 #### Dissertation:
 Human interpretable artificial intelligence applications for microbial-related diseases. Durban University of Technology. PhD in Biotechnology (2022). [PDF](PDFs/Espinoza_2022__PhD-Dissertation-DUT.pdf)
 
-Fluxomic analysis-based approach for engineering an ethanologenic strain of *Haloferax volcanii*. University of California, Santa Cruz. Masters in Bioinformatics (2016). [PDF](PDF/Espinoza_2016__MSc-Dissertation-UCSC.pdf)
+Fluxomic analysis-based approach for engineering an ethanologenic strain of *Haloferax volcanii*. University of California, Santa Cruz. Masters in Bioinformatics (2016). [UCSC Source](https://grad.soe.ucsc.edu/bmeb/people#ms-alumni). [PDF](PDF/Espinoza_2016__MSc-Dissertation-UCSC.pdf)
 _____________________
 
 
