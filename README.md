@@ -55,10 +55,10 @@ Emerick Larkin, Andrew Schuerger, Richard Barker, Jessica Audrey Lee, Natasha Ha
 
 _____________________
 
-#### Dissertation:
+#### Dissertation/Thesis:
 Human interpretable artificial intelligence applications for microbial-related diseases. Durban University of Technology. PhD in Biotechnology (2022). [PDF](PDFs/Espinoza_2022__PhD-Dissertation-DUT.pdf)
 
-Fluxomic analysis-based approach for engineering an ethanologenic strain of *Haloferax volcanii*. University of California, Santa Cruz. Masters in Bioinformatics (2016). [UCSC Source](https://grad.soe.ucsc.edu/bmeb/people#tabs-2). [PDF](PDFs/Espinoza_2016__MSc-Dissertation-UCSC.pdf)
+Fluxomic analysis-based approach for engineering an ethanologenic strain of *Haloferax volcanii*. University of California, Santa Cruz. Masters in Bioinformatics (2016). [UCSC Source](https://grad.soe.ucsc.edu/bmeb/people#tabs-2). [PDF](PDFs/Espinoza_2016__MSc-Thesis-UCSC.pdf)
 _____________________
 
 
