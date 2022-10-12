@@ -6,6 +6,9 @@ _________________________
 [Google Scholar Bibliography](https://scholar.google.com/citations?hl=en&user=r9y1tTQAAAAJ&view_op=list_works&sortby=pubdate)
 
 #### (Co)First Authorship:
+
+**Espinoza, J.L**., Dupont, C.L. VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes. BMC Bioinformatics 23, 419 (2022). [doi: 10.1186/s12859-022-04973-8](https://doi.org/10.1186/s12859-022-04973-8). [PDF](PDFs/Espinoza_2022__BMC-Bioinformatics.pdf)
+
 **Espinoza JL+**, Dupont CL+, O'Rourke A, Beyhan S, Morales P, Spoering A, Meyer KJ, Chan AP, Choi Y, Nierman WC, Lewis K, Nelson KE. Predicting antimicrobial mechanism-of-action from transcriptomes: A generalizable explainable artificial intelligence approach. PLoS Comput Biol. 2021 Mar 29;17(3):e1008857. [doi: 10.1371/journal.pcbi.1008857](https://doi.org/10.1371/journal.pcbi.1008857). PubMed PMID: 33780444. [PDF](PDFs/Espinoza-Dupont_2021__PLOSCompBio.pdf)
 
 **Espinoza JL**, Harkins DM, Torralba M, Gomez A, Highlander SK, Jones MB, Leong P, Saffery R, Bockmann M, Kuelbs C, Inman JM, Hughes T, Craig JM, Nelson KE, Dupont CL. Supragingival Plaque Microbiome Ecology and Functional Potential in the Context of Health and Disease. MBio. 2018 Nov 27;9(6). pii: e01631-18. [doi: 10.1128/mBio.01631-18](https://doi.org/10.1128/mBio.01631-18). PubMed PMID: 30482830. [PDF](PDFs/Espinoza_2018__mBio.pdf)
