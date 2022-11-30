@@ -11,6 +11,8 @@ _________________________
 
 **Espinoza JL+**, Dupont CL+, O'Rourke A, Beyhan S, Morales P, Spoering A, Meyer KJ, Chan AP, Choi Y, Nierman WC, Lewis K, Nelson KE. Predicting antimicrobial mechanism-of-action from transcriptomes: A generalizable explainable artificial intelligence approach. PLoS Comput Biol. 2021 Mar 29;17(3):e1008857. [doi: 10.1371/journal.pcbi.1008857](https://doi.org/10.1371/journal.pcbi.1008857). PubMed PMID: 33780444. [PDF](PDFs/Espinoza-Dupont_2021__PLOSCompBio.pdf)
 
+**Espinoza JL**, Torralba M, Leong P, Saffery R, Bockmann M, Kuelbs C, Singh S, Hughes T, Craig JM, Nelson KE, Dupont CL. Differential network analysis of oral microbiome metatranscriptomes identifies community scale metabolic restructuring in dental caries, PNAS Nexus, Volume 1, Issue 5, November 2022, pgac239, [doi:10.1093/pnasnexus/pgac239](https://doi.org/10.1093/pnasnexus/pgac239). [PDF](PDFs/Espinoza_2022__PNASNexus.pdf)
+
 **Espinoza JL**, Harkins DM, Torralba M, Gomez A, Highlander SK, Jones MB, Leong P, Saffery R, Bockmann M, Kuelbs C, Inman JM, Hughes T, Craig JM, Nelson KE, Dupont CL. Supragingival Plaque Microbiome Ecology and Functional Potential in the Context of Health and Disease. MBio. 2018 Nov 27;9(6). pii: e01631-18. [doi: 10.1128/mBio.01631-18](https://doi.org/10.1128/mBio.01631-18). PubMed PMID: 30482830. [PDF](PDFs/Espinoza_2018__mBio.pdf)
 
 **Espinoza JL**, Shah N, Singh S, Nelson KE, Dupont CL. Applications of weighted association networks applied to compositional data in biology. Environ Microbiol. 2020 May 20;. [doi: 10.1111/1462-2920.15091](https://doi.org/10.1111/1462-2920.15091). Review. PubMed PMID: 32436334. [PDF](PDFs/Espinoza_2020__EMI.pdf)
