@@ -21,6 +21,8 @@ Gomez A+, **Espinoza JL+**, Harkins DM, Leong P, Saffery R, Bockmann M, Torralba
 
 Nabwera HM+, **Espinoza JL+**, Worwui A, Betts M, Okoi C, Sesay AK, Bancroft R, Agbla SC, Jarju S, Bradbury RS, Colley M, Jallow AT, Liu J, Houpt ER, Prentice AM, Antonio M, Bernstein RM, Dupont CL+, Kwambana-Adams BA+. Interactions between fecal gut microbiome, enteric pathogens, and energy regulating hormones among acutely malnourished rural Gambian children. EBioMedicine. 2021 Oct 22;73:103644. [doi: 10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644).  PMID: 34695658. [PDF](PDFs/Nabwera-Espinoza_2021__EBioMedicine.pdf)
 
+Walworth NG+, **Espinoza JL+**, Argyle PA, Hinners J, Levine NM, Doblin MA, Dupont CL, Collins S. Genus-Wide Transcriptional Landscapes Reveal Correlated Gene Networks Underlying Microevolutionary Divergence in Diatoms. Mol Biol Evol. 2023 Oct 4;40(10):msad218. [doi: 10.1093/molbev/msad218](https://doi.org/10.1093/molbev/msad218). PMID: 37874344. [PDF](PDFs/Walworth-Espinoza_2023__MOLBEV.pdf)
+
 Shum EY+, **Espinoza JL+**, Ramaiah M, Wilkinson MF. Identification of novel post-transcriptional features in olfactory receptor family mRNAs. Nucleic Acids Res. 2015 Oct 30;43(19):9314-26. [doi: 10.1093/nar/gkv324](https://doi.org/10.1093/nar/gkv324). PubMed PMID: 25908788; PubMed Central PMCID: PMC4627058. [PDF](PDFs/Shum-Espinoza_2015__NAR.pdf)
 ___________________________________
 #### Coauthorship:
@@ -48,6 +50,8 @@ Manck LE, **Espinoza JL**, Dupont CL, Barbeau KA. Transcriptomic Study of Substr
 O'Rourke A, Beyhan S, Choi Y, Morales P, Chan AP, **Espinoza JL**, Dupont CL, Meyer KJ, Spoering A, Lewis K, Nierman WC, Nelson KE. Mechanism-of-Action Classification of Antibiotics by Global Transcriptome Profiling. Antimicrob Agents Chemother. 2020 Feb 21;64(3). [doi: 10.1128/AAC.01207-19](https://doi.org/10.1128/AAC.01207-19). PubMed PMID: 31907190; PubMed Central PMCID: PMC7038283.  [PDF](PDFs/O'Rourke_2020__AAC.pdf)
 
 Huang L, Shum EY, Jones SH, Lou CH, Dumdie J, Kim H, Roberts AJ, Jolly LA, **Espinoza JL**, Skarbrevik DM, Phan MH, Cook-Andersen H, Swerdlow NR, Gecz J, Wilkinson MF. A Upf3b-mutant mouse model with behavioral and neurogenesis defects. Mol Psychiatry. 2018 Aug;23(8):1773-1786. [doi: 10.1038/mp.2017.173](https://doi.org/10.1038/mp.2017.173). PubMed PMID: 28948974; PubMed Central PMCID: PMC5869067. [PDF](PDFs/Huang_2018__MolecularPsychiatry.pdf)
+
+Garza EA, Bielinski VA, **Espinoza JL**, Orlandi K, Alfaro JR, Bolt TM, Beeri K, Weyman PD, Dupont CL. Validating a Promoter Library for Application in Plasmid-Based Diatom Genetic Engineering. ACS Synth Biol. 2023 Oct 19. [doi: 10.1021/acssynbio.3c00163](https://doi.org/10.1021/acssynbio.3c00163). PMID: 37857380. [PDF](PDFs/Garza_2023__ACSSynBio.pdf)
 
 Diner RE, Noddings CM, Lian NC, Kang AK, McQuaid JB, Jablanovic J, **Espinoza JL**, Nguyen NA, Anzelmatti MA Jr, Jansson J, Bielinski VA, Karas BJ, Dupont CL, Allen AE, Weyman PD. Diatom centromeres suggest a mechanism for nuclear DNA acquisition. Proc Natl Acad Sci U S A. 2017 Jul 18;114(29):E6015-E6024. [doi: 10.1073/pnas.1700764114](https://doi.org/10.1073/pnas.1700764114). PubMed PMID: 28673987; PubMed Central PMCID: PMC5530661. [PDF](PDFs/Diner_2017__PNAS.pdf)
 
