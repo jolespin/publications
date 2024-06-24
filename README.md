@@ -7,6 +7,9 @@ _________________________
 
 #### (Co)First Authorship:
 
+**Espinoza JL**, Phillips A, Prentice MB, Tan GS, Kamath PL, Lloyd KG, Dupont CL. Unveiling the microbial realm with VEBA 2.0: a modular bioinformatics suite for end-to-end genome-resolved prokaryotic, (micro)eukaryotic and viral multi-omics from either short- or long-read sequencing. Nucleic Acids Res. 2024 Jun 22:gkae528. [doi: 10.1093/nar/gkae528](https://doi.org/10.1093/nar/gkae528). PMID: 38909293.
+[PDF](PDFs/Espinoza_2024__NAR.pdf)
+
 **Espinoza JL**, Dupont CL. VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes. BMC Bioinformatics. 2022 Oct 12;23(1):419. [doi: 10.1186/s12859-022-04973-8](https://doi.org/10.1186/s12859-022-04973-8). PMID: 36224545. [PDF](PDFs/Espinoza_2022__BMC-Bioinformatics.pdf)
 
 **Espinoza JL+**, Dupont CL+, O'Rourke A, Beyhan S, Morales P, Spoering A, Meyer KJ, Chan AP, Choi Y, Nierman WC, Lewis K, Nelson KE. Predicting antimicrobial mechanism-of-action from transcriptomes: A generalizable explainable artificial intelligence approach. PLoS Comput Biol. 2021 Mar 29;17(3):e1008857. [doi: 10.1371/journal.pcbi.1008857](https://doi.org/10.1371/journal.pcbi.1008857). PubMed PMID: 33780444. [PDF](PDFs/Espinoza-Dupont_2021__PLOSCompBio.pdf)
