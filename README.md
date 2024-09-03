@@ -70,6 +70,8 @@ Domingo D, Nawaz U, Corbett M, **Espinoza JL**, Tatton-Brown K, Coman D, Wilkins
 
 Weiss H, Hertzberg VS, Dupont C, **Espinoza JL**, Levy S, Nelson K, Norris S; FlyHealthy Research Team. The Airplane Cabin Microbiome. Microb Ecol. 2018 Jun 6. [doi: 10.1007/s00248-018-1191-3](https://doi.org/10.1007/s00248-018-1191-3). PubMed PMID: 29876609. [PDF](PDFs/Weiss_2018__MicrobialEcology.pdf)
 
+Walker M. Federico E. **Espinoza JL**. Dupont CL. Unveiling Molecular Diversity in Cerebral Thrombi via Spatial Transcriptomics. Stroke. 2024. [doi: 10.1161/STROKEAHA.124.04790](https://doi.org/10.1161/STROKEAHA.124.04790) [PDF](PDFs/Walker_2024__Stroke.pdf)
+
 _____________________
 
 #### White Papers:
