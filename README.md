@@ -50,6 +50,8 @@ Lou CH, Shao A, Shum EY, **Espinoza JL**, Huang L, Karam R, Wilkinson MF. Posttr
 
 Kumar M, Tibocha-Bonilla JD, Füssy Z, Lieng C, Schwenck SM, Levesque AV, Al-Bassam MM, Passi A, Neal M, Zuniga C, Kaiyom F, **Espinoza JL**, Lim H, Polson SW, Allen LZ, Zengler K. Mixotrophic growth of a ubiquitous marine diatom. Sci Adv. 2024 Jul 19;10(29):eado2623. doi: 10.1126/sciadv.ado2623. Epub 2024 Jul 17. PMID: 39018398; PMCID: PMC466952. [PDF](PDFs/Kumar_2024__ScienceAdvances.pdf)
 
+Lozzi B, Adepoju L, Espinoza JL, Padgen M, Parra M, Ricco A, Castro-Wallace S, Barrick JE, O'Rourke A. Simulated microgravity triggers a membrane adaptation to stress in E. coli REL606. BMC Microbiol. 2025 Jun 9;25(1):362. [doi: 10.1186/s12866-025-04064-7](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-025-04064-7). PMID: 40484963; PMCID: PMC12147273. [PDF](PDFs/Lozzi_2025__BMCMicrobiology.pdf)
+
 Nakatsuji T, Brinton SL, Cavagnero KJ, O'Neill AM, Chen Y, Dokoshi T, Butcher AM, Osuoji OC, Shafiq F, **Espinoza JL**, Dupont CL, Hata TR, Gallo RL. Competition between skin antimicrobial peptides and commensal bacteria in type 2 inflammation enables survival of S. aureus. Cell Rep. 2023 May 10;42(5):112494. [doi: 10.1016/j.celrep.2023.112494](https://doi.org/10.1016/j.celrep.2023.112494). PMID: 37167061. [PDF](PDFs/Nakatsuji_2023__CellReports.pdf)
 
 Shahsavari N, Wang B, Imai Y, Mori M, Son S, Liang L, Böhringer N, Manuse S, Gates MF, Morrissette M, Corsetti R, **Espinoza JL**, Dupont CL, Laub MT, Lewis K. A Silent Operon of *Photorhabdus luminescens* Encodes a Prodrug Mimic of GTP. mBio. 2022 May 16:e0070022. [doi: 10.1128/mbio.00700-22](https://doi.org/10.1128/mbio.00700-22). PMID: 35575547. [PDF](PDFs/Shahsavari_2022__mBio.pdf)
